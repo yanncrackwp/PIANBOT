@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/_lucxfvr'
-global.sgh = 'https://github.com/VarrelKun'
-global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
+global.sig = 'https://www.instagram.com/yannxdimm_'
+global.sgh = 'https://github.com/RyanStore'
+global.sgc = 'https://chat.whatsapp.com/E9APcVYLflFH8DaTc37mbh'
 global.sdc = " "
 global.snh = 'https://PentaPage.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085954184111'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '085954184111'
-global.ppulsa2 = '085954184111'
+global.pdana = '082350496532'
+global.povo = '082252285143'
+global.pgopay = '082252285143'
+global.ppulsa = '082252285143'
+global.ppulsa2 = '082350496532'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17754764633'
-global.nomorown = '6285954184111'
-global.namebot = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.nameown = 'SIJEMBOT'
+global.nomorbot = '6282350496532'
+global.nomorown = '6282252285143'
+global.namebot = 'Yann-BotzMD'
+global.nameown = 'M.Ryan Aditya P,'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
-  ['6285954184111'],
-  ['18126338970'],
-  ['6285954184111', 'SIJEMBOT', true]
+  ['6282350496532'],
+  ['6282252285143'],
+  ['6282252285143'],
+  ['6282252285143', 'M.Ryan Aditya P,', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,12 +115,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌 」' //Main Watermark
-global.wm2 = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.wm3 = '⛧𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.wm = '                「 Yann MD 」' //Main Watermark
+global.wm2 = 'YANN-BOTZ'
+global.wm3 = '⛧WHATSAPP BOT\nMULTI DEVICE'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ PENTAGRAM ʙᴏᴛ'
+global.titlebot = '⛧┊ YANN ʙᴏᴛ'
 global.author = global.wm
 
 
