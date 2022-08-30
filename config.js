@@ -125,9 +125,9 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg'
-global.thumbbc = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg'
+global.thumbbc = 'https://telegra.ph/file/95c925329a40523b40dd0.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -143,7 +143,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/162d60896b53c2e885c40.jpg'
+global.thumbdoc = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
